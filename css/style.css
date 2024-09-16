@@ -1,5 +1,10 @@
 img{ background-image: none;
-background-color: lightskyblue;}
-table{background-color: lightblue;}
+background-color: lightskyblue; max-width:100%;}
 span { color: yellow;}
 img{ background-image: none;}
+.color-row {
+ background-color: lightskyblue;  
+}
+h3{
+    color: grey;
+}
