@@ -1,6 +1,10 @@
-img{ background-image: none;
-background-color: lightskyblue; max-width:100%;}
-img{ background-image: none;}
+.my-bg {
+    background-image: url('../img/pattern.png');
+    background-color: #4ea0fc;
+    background-size: 20%;
+    height: 70px;
+    margin: 0px
+ }
 .color-row {
  background-color: lightskyblue;  
 }
